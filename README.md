@@ -17,5 +17,6 @@ This are some Screenshots of the application.
 ![Screenshot (62)](https://user-images.githubusercontent.com/68557958/87990020-cb54eb00-cb00-11ea-99a5-58f9f381c2ff.png)
 
 
+Here is an animation of a very small part of the project
 
 ![4943q7](https://user-images.githubusercontent.com/68557958/88239370-de52f100-cca1-11ea-9079-fd862a0ccadc.gif)
