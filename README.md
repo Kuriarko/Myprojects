@@ -17,4 +17,4 @@ This are some Screenshots of the application.
 ![Screenshot (62)](https://user-images.githubusercontent.com/68557958/87990020-cb54eb00-cb00-11ea-99a5-58f9f381c2ff.png)
 
 
-https://imgflip.com/gif/4943q7
+
