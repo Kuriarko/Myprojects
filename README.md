@@ -3,6 +3,12 @@
 
 This  is a web application based on the MVC architecture. There are three entities in this system namely Admin, Member and Trainer.
 
+1) Admin can Login,add member,delete member,add trainer,delete trainer,modify member and trainer data and modify the trainer’s shift.
+
+2) Member can login and make fees payment using electronic transfer.
+
+3) Trainer can login using credentials and can mark attendance of the members.
+
 Technologies used :  JSP,Servlet,JDBC,Mysql  database,Apache Tomcat web server and  Netbeans IDE.
 
 
